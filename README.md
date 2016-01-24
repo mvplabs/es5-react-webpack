@@ -15,7 +15,11 @@ Because I wanted a boilerplate that was:
 * Hotreload
 * ES5
 
-Most of the boilerplates I found where using ES6, which I can't for now (using this for a training).
+Most of the boilerplates I found where using ES6, which I can't for now.
+
+## Why create a boilerplate?
+
+I'm giving a training on React and I need a common base for my students.
 
 ## Did you do that yourself?
 
