@@ -4,7 +4,7 @@
 
 Because I can.
 
-![](https://xkcd.com/927/)
+![standards](https://cloud.githubusercontent.com/assets/829292/12536852/66dc5b1a-c2b1-11e5-8c23-bec83c0d93bd.png)
 
 ## No, seriously
 
