@@ -24,3 +24,10 @@ I'm giving a training on React and I need a common base for my students.
 ## Did you do that yourself?
 
 No. this is heavily inspired by [Dan Abramov Boilerplate](https://github.com/gaearon/react-hot-boilerplate) - my big thanks to him for his work.
+
+## How to use:
+
+```bash
+npm start # start the dev, hot reload server
+npm build # build the production version
+```

@@ -4,7 +4,8 @@
   "description": "Boilerplate for ReactJS project heavily inspired by Dan Abramov - version ES5",
   "scripts": {
     "start": "node server.js",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "build": "webpack --config webpack.production.config.js"
   },
   "repository": {
     "type": "git",
